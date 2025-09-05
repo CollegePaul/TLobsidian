@@ -2,6 +2,8 @@ Variables allow us to store data or information.
 Must be 1 work, and can't start with number.
 Choosing the correct data type is essential for performance and accuracy.
 
+this is a new line
+
 ```python 
 age = 16  # Integer
 money = 2.25  # float / double
